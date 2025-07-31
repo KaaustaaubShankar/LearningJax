@@ -1,4 +1,4 @@
 #Learning Jax
 
-I am following this [tutorial](https://www.youtube.com/watch?v=wq-UsiOkBRU) by Neural Nine
+I am following this [tutorial](https://youtu.be/SstuvS-tVc0?si=kXAV_3WgXb06-Y-6)
 
